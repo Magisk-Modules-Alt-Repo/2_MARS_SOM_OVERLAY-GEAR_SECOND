@@ -18,6 +18,16 @@
 - Done
 
 
+## DESCRIPTION
+ Since My Development goes on, feel free to help with it...
+# Important: Since i use Gears (21.10.31) am i simplifying Things. Gears can be used like...
+ GEAR FIRST  (1st) + GEAR SECOND (2nd)                     = GEAR THIRTH (3th)
+ GEAR FIRST  (1st) + GEAR THIRD  (3rd)                     = GEAR FOURTH (4th)
+ GEAR SECOND (2nd) + GEAR THIRD  (3rd)                     = GEAR FIFTH  (5th)
+ GEAR FIRST  (1st) + GEAR SECOND (2nd) + GEARD THIRD (3rd) = GEAR SIXTH  (6th)
+# Tell Me/Us Your Gear/s and we will solve Your Problems together if needed!
+
+
 ## LINKS
 * https://linktr.ee/m1u5t0n3
 
