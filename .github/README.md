@@ -6,6 +6,7 @@
 ![GITHUB ALL STARS](https://img.shields.io/github/stars/Miustone/MARS_SOM_OVERLAY-GEAR_SECOND?style=flat-square&labelColor=000000)
 
 
+
 ## INSTRUCTIONS
 - Make sure the latest official Magisk App (Stable) is installed
 - Reboot!
@@ -18,6 +19,7 @@
 - Done
 
 
+
 ## DESCRIPTION
 
 ### Important: Gears can be used like in this Example...
@@ -28,8 +30,10 @@
 ### Tell Me/Us Your Gear/s and we will solve Your Problems together if needed!
 
 
+
 ## LINKS
 * https://linktr.ee/m1u5t0n3
+
 
 
 ## CREDITS ❤️
