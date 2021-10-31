@@ -1,4 +1,4 @@
-### M1U5T0N3s ANDROID RESTORATION SOFTWARE OVERLAY. THE SECOND GEAR ⚙️
+# M1U5T0N3s ANDROID RESTORATION SOFTWARE OVERLAY. THE SECOND GEAR ⚙️
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMiustone%2FMARS_SOM_OVERLAY-GEAR_SECOND&count_bg=%2392C7FF&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=VISITORS%3A&edge_flat=true"/></a>
 ![GITHUB ALL RELEASES](https://img.shields.io/github/downloads/Miustone/MARS_SOM_OVERLAY-GEAR_SECOND/total?style=flat-square&labelColor=000000) 
 ![GITHUB ALL ISSUES](https://img.shields.io/github/issues/Miustone/MARS_SOM_OVERLAY-GEAR_SECOND?style=flat-square&labelColor=000000) 
@@ -20,12 +20,12 @@
 
 ## DESCRIPTION
  Since My Development goes on, feel free to help with it...
-# Important: Since i use Gears (21.10.31) am i simplifying Things. Gears can be used like...
+### Important: Since i use Gears (21.10.31) am i simplifying Things. Gears can be used like...
  GEAR FIRST  (1st) + GEAR SECOND (2nd)                     = GEAR THIRTH (3th)
  GEAR FIRST  (1st) + GEAR THIRD  (3rd)                     = GEAR FOURTH (4th)
  GEAR SECOND (2nd) + GEAR THIRD  (3rd)                     = GEAR FIFTH  (5th)
  GEAR FIRST  (1st) + GEAR SECOND (2nd) + GEARD THIRD (3rd) = GEAR SIXTH  (6th)
-# Tell Me/Us Your Gear/s and we will solve Your Problems together if needed!
+### Tell Me/Us Your Gear/s and we will solve Your Problems together if needed!
 
 
 ## LINKS
