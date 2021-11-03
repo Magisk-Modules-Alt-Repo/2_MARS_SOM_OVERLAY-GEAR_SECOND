@@ -14,7 +14,6 @@ jobs:
       - name: List Files in the Repository
         run: |
           ls ${{ github.workspace }}
-      - run: echo "🍏 This Job's status is ${{ job.status }}."
       - uses: actions/checkout@v2
       - uses: papeloto/action-zip@v1
         with:
@@ -24,3 +23,4 @@ jobs:
         with:
           name: Upload
           path: ${{ github.workspace }}/MARS_SOM_OVERLAY.zip
+      - run: echo "🍏 This Job's status is ${{ job.status }}."

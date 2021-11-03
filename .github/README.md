@@ -7,6 +7,159 @@
 
 
 
+## OVERLAY CONTENT
+- UI in Black
+- UI Accent Colors
+- UI Icon Shapes
+- UI Icon Symbols
+- UI Fonts (Many of them)
+- Pixel Vendor Frameworks
+- Various Device Settings:
+- "config_adaptive_sleep_available">true<
+- "config_allowAllRotations">true<
+- "config_allowAutoBrightnessWhileDozing">true<
+- "config_allowPriorityVibrationsInLowPowerMode">true<
+- "config_allow_ussd_over_ims">true<
+- "config_animateScreenLights">true<
+- "config_autoBrightnessResetAmbientLuxAfterWarmUp">true<
+- "config_autoPowerModePrefetchLocation">true<
+- "config_autoPowerModeUseMotionSensor">true<
+- "config_auto_attach_data_on_creation">true<
+- "config_automatic_brightness_available">true<
+- "config_automotiveHideNavBarForKeyboard">false<
+- "config_avoidGfxAccel">false<
+- "config_awareSettingAvailable">true<
+- "config_batterySaverStickyBehaviourDisabled">false<
+- "config_batterySdCardAccessibility">true<
+- "config_battery_percentage_setting_available">true<
+- "config_bluetooth_default_profiles">false<
+- "config_bluetooth_hfp_inband_ringing_support">true<
+- "config_bluetooth_le_peripheral_mode_supported">true<
+- "config_bluetooth_pan_enable_autoconnect">true<
+- "config_bluetooth_wide_band_speech">true<
+- "config_bugReportHandlerEnabled">true<
+- "config_built_in_sip_phone">true<
+- "config_buttonTextAllCaps">false<
+- "config_cameraDoubleTapPowerGestureEnabled">true<
+- "config_camera_sound_forced">false<
+- "config_carrier_volte_available">true<
+- "config_carrier_volte_tty_supported">true<
+- "config_carrier_vt_available">true<
+- "config_carrier_wfc_ims_available">true<
+- "config_checkWallpaperAtBoot">true<
+- "config_closeDialogWhenTouchOutside">false<
+- "config_defaultRingtonePickerEnabled">false<
+- "config_device_respects_hold_carrier_config">true<
+- "config_device_volte_available">true<
+- "config_device_vt_available">true<
+- "config_device_wfc_ims_available">true<
+- "config_disableTransitionAnimation">false<
+- "config_disableUsbPermissionDialogs">false<
+- "config_displayBlanksAfterDoze">false<
+- "config_displayBrightnessBucketsInDoze">false<
+- "config_displayWhiteBalanceAvailable">true<
+- "config_displayWhiteBalanceEnabledDefault">true<
+- "config_dozeAfterScreenOff">true<
+- "config_dozeAfterScreenOffByDefault">true<
+- "config_dozeAlwaysOnDisplayAvailable">true<
+- "config_dozeAlwaysOnEnabled">true<
+- "config_dozePulsePickup">true<
+- "config_dozeSupportsAodWallpaper">true<
+- "config_dozeWakeLockScreenSensorAvailable">true<
+- "config_dreamsActivatedOnDockByDefault">true<
+- "config_dreamsActivatedOnSleepByDefault">true<
+- "config_dreamsEnabledByDefault">true<
+- "config_dreamsEnabledOnBattery">true<
+- "config_dreamsSupported">true<
+- "config_dynamic_bind_ims">true<
+- "config_enableAutoPowerModes">true<
+- "config_enableBurnInProtection">true<
+- "config_enableCredentialFactoryResetProtection">true<
+- "config_enableFusedLocationOverlay">true<
+- "config_enableHapticTextHandle">true<
+- "config_enableLockBeforeUnlockScreen">true<
+- "config_enableLockScreenRotation">true<
+- "config_enableMultiUserUI">true<
+- "config_enableNetworkLocationOverlay">true<
+- "config_enableNewAutoSelectNetworkUI">true<
+- "config_enableNightMode">true<
+- "config_enableScreenshotChord">true<
+- "config_enableUpdateableTimeZoneRules">true<
+- "config_enableWifiDisplay">true<
+- "config_faceAuthDismissesKeyguard">true<
+- "config_fillMainBuiltInDisplayCutout">false<
+- "config_fingerprintSupportsGestures">true<
+- "config_forceWindowDrawsStatusBarBackground">true<
+- "config_hearing_aid_profile_supported">true<
+- "config_hideLtePlus">false<
+- "config_hotswapCapable">true<
+- "config_hspa_data_distinguishable">true<
+- "config_intrusiveNotificationLed">true<
+- "config_lidControlsSleep">true<
+- "config_navBarAlwaysShowOnSideEdgeGesture">true<
+- "config_navBarCanMove">true<
+- "config_navBarTapThrough">true<
+- "config_notificationBadging">true<
+- "config_notificationHeaderClickableForExpand">true<
+- "config_pinnerCameraApp">false<
+- "config_powerDecoupleAutoSuspendModeFromDisplay">true<
+- "config_powerDecoupleInteractiveModeFromDisplay">true<
+- "config_safe_media_disable_on_volume_up">false<
+- "config_safe_media_volume_enabled">false<
+- "config_sendPackageName">true<
+- "config_setColorTransformAccelerated">true<
+- "config_show4GForLTE">false<
+- "config_showAreaUpdateInfoSettings">true<
+- "config_showDefaultAssistant">true<
+- "config_showGesturalNavigationHints">true<
+- "config_showNavigationBar">true<
+- "config_showSysuiShutdown">true<
+- "config_sip_wifi_only">true<
+- "config_skipScreenOnBrightnessRamp">false<
+- "config_smart_battery_available">true<
+- "config_speed_up_audio_on_mt_calls">true<
+- "config_supportAudioSourceUnprocessed">true<
+- "config_supportAutoRotation">true<
+- "config_supportBluetoothPersistedState">true<
+- "config_supportDoubleTapWake">true<
+- "config_supportLongPressPowerWhenNonInteractive">true<
+- "config_supportMicNearUltrasound">true<
+- "config_supportSpeakerNearUltrasound">true<
+- "config_supportSystemNavigationKeys">true<
+- "config_supportsInsecureLockScreen">true<
+- "config_supportsMultiDisplay">true<
+- "config_supportsMultiWindow">true<
+- "config_supportsSplitScreenMultiWindow">true<
+- "config_suspendWhenScreenOffDueToProximity">true<
+- "config_sustainedPerformanceModeSupported">true<
+- "config_swipe_up_gesture_setting_available">true<
+- "config_switch_phone_on_voice_reg_state_change">false<
+- "config_syncstorageengine_masterSyncAutomatically">true<
+- "config_tintNotificationActionButtons">true<
+- "config_unplugTurnsOnScreen">false<
+- "config_usbChargingMessage">false<
+- "config_useDevInputEventForAudioJack">true<
+- "config_useRoundIcon">true<
+- "config_useSystemProvidedLauncherForSecondary">true<
+- "config_useVideoPauseWorkaround">false<
+- "config_useVolumeKeySounds">true<
+- "config_use_sim_language_file">true<
+- "config_use_voip_mode_for_ims">true<
+- "config_vibrateOnIconAnimation">true<
+- "config_volumeHushGestureEnabled">true<
+- "config_wifiDisplaySupportsProtectedBuffers">true<
+- "config_wifi_background_scan_support">true<
+- "config_wifi_batched_scan_supported">true<
+- "config_wifi_dual_band_support">true<
+- "config_wifi_enable_disconnection_debounce">true<
+- "config_wifi_enable_wifi_firmware_debugging">false<
+- "config_wifi_fast_bss_transition_enabled">true<
+- "config_wlan_data_service_conn_persistence_on_restart">true<
+- "config_zramWriteback">true<
+- "elmyra_correlation_enabled">true<
+
+
+
 ## INSTRUCTIONS
 - Make sure the latest official Magisk App (Stable) is installed
 - Reboot!
