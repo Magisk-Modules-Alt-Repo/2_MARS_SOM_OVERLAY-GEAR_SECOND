@@ -7,6 +7,20 @@
 
 
 
+## INSTRUCTIONS
+- Make sure the latest official Magisk App (Stable) is installed
+- Reboot!
+- Download and extract the MARS_SOM_XXX-master.zip and open /MARS_SOM_XXX/MARS_SOM_XXX
+- -Link: https://github.com/Miustone/MARS_SOM_OVERLAY-GEAR_SECOND/archive/refs/heads/main.zip
+- Mark the whole Content of the second MARS_SOM_XXX Folder and create a Zip File
+- Make sure that the META-INF and the other Folders and Files are on the Root of the Zip
+- Install the created Zip using the Magisk Manager Modules Section
+- Reboot!
+- Go to the Play Store again and update all Your Apps
+- Done
+
+
+
 ## OVERLAY CONTENT
 - UI in Black
 - UI Accent Colors
@@ -157,19 +171,6 @@
 - "config_wlan_data_service_conn_persistence_on_restart">true<
 - "config_zramWriteback">true<
 - "elmyra_correlation_enabled">true<
-
-
-
-## INSTRUCTIONS
-- Make sure the latest official Magisk App (Stable) is installed
-- Reboot!
-- Download and extract the MARS_SOM_XXX-master.zip and open /MARS_SOM_XXX/MARS_SOM_XXX
-- Mark the whole Content of the second MARS_SOM_XXX Folder and create a Zip File
-- Make sure that the META-INF and the other Folders and Files are on the Root of the Zip
-- Install the created Zip using the Magisk Manager Modules Section
-- Reboot!
-- Go to the Play Store again and update all Your Apps
-- Done
 
 
 
